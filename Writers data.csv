@@ -1,0 +1,658 @@
+Id,Gender,WritingType,NativeLanguage,EducationalDegree1
+1000,F,Right-handed,German,Matur
+1001,M,Right-handed,Swiss German,FH
+1002,M,Right-handed,Swiss German,Matur
+1003,M,Right-handed,Swiss German,FH
+1004,M,Right-handed,Swiss German,Licentiate
+1005,M,Right-handed,Swiss German,Matur
+1006,F,Right-handed,Swiss German,El.-Ing. FH
+1007,F,Right-handed,Turkish,Master
+1008,F,Right-handed,Swiss German,Matur
+1009,M,Left-handed,Swiss German,Abitur
+1010,M,Right-handed,German,Matur
+1011,M,Right-handed,Swiss German,Matur
+1012,M,Right-handed,Swiss German,Matur
+1013,F,Right-handed,French,
+1014,F,Left-handed,Swiss German,Bachelor
+1015,F,Right-handed,Chinese,Matur
+1016,M,Right-handed,Swiss German,Matur
+1017,M,Right-handed,Swiss German,PhD
+1018,F,Right-handed,Swiss German,Matur
+1019,M,Right-handed,Swiss German,
+1020,F,Right-handed,Swiss German,Dipl. Phil. nat.
+1021,F,Right-handed,Swiss German,Matur
+1022,M,Right-handed,Swiss German,Matur
+1023,F,Right-handed,Swiss German,
+1024,F,Right-handed,Swiss German,Dipl.
+1025,F,Right-handed,Swiss German,Matur
+1026,M,Right-handed,Swiss German,Matur
+1027,F,Right-handed,Swiss German,FH
+1028,F,Left-handed,Swiss German,Matur
+1029,F,Right-handed,Swiss German,Matur
+1030,M,Right-handed,German,Matur
+1031,M,Right-handed,French,Dipl. Inform.
+1032,M,Right-handed,Swiss German,Matur
+1033,M,Right-handed,Swiss German,Matur
+1034,M,Right-handed,Swiss German,Matur
+1035,F,Left-handed,Swiss German,
+1036,M,Right-handed,Swiss German,Matur
+1037,M,Right-handed,Swiss German,Matur
+1038,F,Right-handed,Swiss German,Matur
+1039,M,Right-handed,Finnish,Matur
+1040,M,Right-handed,Swiss German,Matur
+1041,M,Right-handed,Swiss German,Bachelor
+1042,M,Right-handed,Swiss German,Matur
+1043,M,Right-handed,Swiss German,Matur
+1044,F,Right-handed,Swiss German,Matur
+1045,M,Right-handed,German,Matur
+1046,M,Right-handed,Swiss German,Matur
+1047,M,Right-handed,Swiss German,Matur
+1048,F,Right-handed,Finnish,Matur
+1049,F,Right-handed,Swiss German,Matur
+1050,F,Right-handed,Swiss German,Matur
+1051,F,Right-handed,Swiss German,Matur
+1052,M,Right-handed,German,Master of Science
+1053,M,Left-handed,Swiss German,Matur
+1054,F,Right-handed,Swiss German,Matur
+1055,F,Right-handed,Swiss German,MSc
+1056,M,Right-handed,Swiss German,Matur
+1058,M,Right-handed,Swiss German,Matur
+1059,M,Right-handed,Hungarian,Dipl.
+1060,M,Right-handed,Ukrainian,Matur
+1061,M,Right-handed,Swiss German,
+1062,M,Right-handed,Swiss German,Matur
+1063,M,Right-handed,German,Matur
+1064,M,Right-handed,German,
+1065,M,Right-handed,Finnish,Matur
+1066,F,Right-handed,Swiss German,Matur
+1067,F,Right-handed,Swiss German,Matur
+1068,M,Right-handed,Swiss German,Dipl. Phil. nat.
+1069,F,Right-handed,German,
+1070,F,Left-handed,Swiss German,Matur
+1071,M,Right-handed,Swiss German,Matur
+1072,M,Right-handed,Swiss German,Matur
+1073,F,Right-handed,Serbian,Dipl.
+1074,M,Right-handed,Swiss German,Lic. rer. pol.
+1075,F,Right-handed,Swiss German,Dipl. Phil. nat.
+1076,F,Right-handed,Swiss German,Matur
+1077,F,Right-handed,Swiss German,Matur
+1078,F,Right-handed,Swiss German,Dipl. ing.
+1079,F,Right-handed,Swiss German,Matur
+1080,F,Right-handed,Swiss German,Matur
+1081,F,Right-handed,Swiss German,
+1082,F,Right-handed,Swiss German,Matur
+1083,M,Right-handed,Swiss German,Abitur
+1084,M,Right-handed,Swiss German,Matur
+1085,M,Right-handed,Swiss German,Matur
+1086,F,Right-handed,Serbian,Matur
+1087,M,Right-handed,Swiss German,Master
+1088,M,Right-handed,Swiss German,
+1089,F,Right-handed,Ukrainian,MS
+1090,F,Right-handed,Swiss German,Matur
+1091,M,Right-handed,Swiss German,Dipl.
+1092,M,Right-handed,Swiss German,
+1093,F,Left-handed,German,Matur
+1094,F,Right-handed,Swiss German,Dipl.
+1095,M,Right-handed,Swiss German,Matur
+1096,F,Right-handed,Swiss German,Matur
+1097,F,Right-handed,Swiss German,Matur
+1098,F,Left-handed,Swiss German,Matur
+1099,M,Right-handed,Swiss German,Matur
+1100,F,Right-handed,Swiss German,Matur
+1102,F,Left-handed,Swiss German,Matur
+1103,M,Right-handed,Swiss German,Matur
+1104,F,Right-handed,Swiss German,MS
+1105,M,Right-handed,Swiss German,Matur
+1106,M,Right-handed,Swiss German,Licentiate
+1107,M,Right-handed,Swiss German,Matur
+1108,M,Right-handed,Russian,Dipl.
+1109,M,Right-handed,Swiss German,
+1110,F,Right-handed,Swiss German,Matur
+1111,M,Right-handed,German,College
+1112,M,Right-handed,Swiss German,Matur
+1113,F,Right-handed,Swiss German,
+1114,M,Right-handed,Swiss German,Licentiate
+1115,F,Right-handed,German,Matur
+1116,F,Right-handed,Swiss German,Matur
+1117,F,Right-handed,German,Matur
+1118,F,Right-handed,French,MA Management
+1119,F,Right-handed,j,Matur
+1120,F,Right-handed,Swiss German,Matur
+1121,M,Right-handed,Swiss German,Matur
+1122,M,Right-handed,Swiss German,Matur
+1123,F,Right-handed,Swiss German,Matur
+1124,F,Right-handed,Swiss German,Matur
+1125,M,Right-handed,Swiss German,Dipl. Inform.
+1126,F,Right-handed,Swiss German,Matur
+1127,F,Right-handed,Swiss German,MSc
+1128,F,Right-handed,Swiss German,Matur
+1129,F,Right-handed,Turkish,Matur
+1130,F,Right-handed,Swiss German,Matur
+1131,F,Right-handed,Swiss German,Matur
+1132,M,Right-handed,Swiss German,Matur
+1133,M,Right-handed,Swiss German,Matur
+1134,F,Right-handed,Swiss German,Matur
+1135,M,Right-handed,Swiss German,Dr. phil. nat.
+1136,F,Right-handed,Swiss German,FH
+1137,M,Right-handed,Swiss German,Matur
+1138,M,Right-handed,German,Matur
+1139,F,Right-handed,Swiss German,Matur
+1140,M,Right-handed,Swiss German,Matur
+1141,M,Right-handed,Swiss German,El.-Ing. FH
+1142,F,Right-handed,Swiss German,Matur
+1143,M,Right-handed,Swiss German,Matur
+1144,F,Right-handed,Swiss German,Matur
+1145,F,Right-handed,Swiss German,Matur
+1146,F,Right-handed,Swiss German,BS
+1147,F,Right-handed,Swiss German,Matur
+1148,F,Right-handed,Turkish,BS
+1149,F,Right-handed,German,Master of Science
+1150,F,Right-handed,Swiss German,
+1151,F,Right-handed,Swiss German,Matur
+1152,F,Right-handed,Swiss German,Matur
+1153,F,Right-handed,Swiss German,Matur
+1154,M,Left-handed,Swiss German,Matur
+1155,M,Right-handed,Swiss German,Dipl. Math.
+1156,F,Right-handed,Swiss German,Matur
+1157,F,Right-handed,French,
+1158,M,Right-handed,Swiss German,Matur
+1159,M,Right-handed,Swiss German,Matur
+1160,M,Right-handed,Swiss German,Matur
+1161,M,Right-handed,Persian,
+1162,F,Right-handed,Swiss German,Matur
+1163,M,Right-handed,Swiss German,Master
+1164,M,Right-handed,Swiss German,Matur
+1165,F,Left-handed,Swiss German,Matur
+1166,F,Right-handed,Swiss German,Matur
+1167,M,Right-handed,Polnish,Matur
+1168,M,Right-handed,Swiss German,Matur
+1169,M,Right-handed,German,Matur
+1170,M,Right-handed,Swiss German,Matur
+1171,F,Right-handed,Swiss German,Dipl. ing.
+1172,F,Right-handed,Swiss German,
+1173,M,Right-handed,French,
+1174,M,Left-handed,Swiss German,Matur
+1175,M,Right-handed,Swiss German,Dipl. Phil. nat.
+1176,F,Right-handed,Hungarian,Matur
+1177,F,Right-handed,Swiss German,Matur
+1178,F,Right-handed,Russian,Matur
+1179,F,Right-handed,Hungarian,PhD
+1180,M,Right-handed,Swiss German,Matur
+1181,M,Right-handed,Swiss German,Matur
+1182,F,Right-handed,German,Matur
+1183,M,Left-handed,Swiss German,Matur
+1184,F,Left-handed,German,Licentiate
+1185,M,Right-handed,Swiss German,Matur
+1186,F,Right-handed,Swiss German,Matur
+1187,F,Right-handed,Swiss German,Licentiate
+1188,F,Right-handed,Swiss German,Matur
+1189,F,Right-handed,French,Matur
+1190,F,Left-handed,Swiss German,Matur
+1191,F,Right-handed,Swiss German,Matur
+1192,F,Right-handed,Swiss German,Matur
+1193,M,Right-handed,Swiss German,
+1194,F,Right-handed,French,Matur
+1195,M,Right-handed,Swiss German,El.-Ing. FH
+1196,M,Right-handed,Swiss German,Licentiate
+1197,M,Right-handed,Swiss German,Dipl.
+1198,M,Right-handed,German,Licentiate
+1199,M,Right-handed,Swiss German,Matur
+1200,F,Right-handed,Swiss German,Abitur
+1201,M,Right-handed,French,Matur
+1202,F,Right-handed,Swiss German,Dipl.
+1203,F,Right-handed,Swiss German,Matur
+1204,F,Right-handed,Swiss German,Matur
+1205,M,Right-handed,French,Matur
+1206,F,Right-handed,Swiss German,Matur
+1207,M,Left-handed,Swiss German,General Certificate of Education
+1208,F,Right-handed,Swiss German,Matur
+1209,F,Right-handed,Swiss German,
+1210,F,Right-handed,German,Matur
+1211,M,Right-handed,Swiss German,El.-Ing. FH
+1212,M,Right-handed,Swiss German,Matur
+1213,M,Right-handed,Swiss German,Matur
+1214,M,Right-handed,Swiss German,Matur
+1215,M,Right-handed,Russian,Dipl. Inform.
+1216,M,Right-handed,Swiss German,Matur
+1217,F,Right-handed,Swiss German,Matur
+1218,F,Right-handed,Swiss German,Matur
+1219,F,Right-handed,Swiss German,College
+1220,F,Left-handed,French,Bachelor
+1221,M,Right-handed,French,MA Management
+1222,M,Right-handed,Swiss German,
+1223,F,Right-handed,Swiss German,Matur
+1224,F,Right-handed,Swiss German,Matur
+1225,M,Right-handed,Swiss German,Matur
+1226,F,Right-handed,Swiss German,Matur
+1227,F,Right-handed,Swiss German,Matur
+1228,F,Right-handed,Swiss German,Matur
+1229,F,Right-handed,Swiss German,Bachelor
+1230,F,Right-handed,German,Matur
+1231,F,Left-handed,Swiss German,Master of Science
+1232,M,Right-handed,Swiss German,Matur
+1233,F,Right-handed,Swiss German,Matur
+1234,F,Right-handed,Swiss German,Matur
+1235,M,Right-handed,Swiss German,Matur
+1236,F,Right-handed,Swiss German,Matur
+1237,M,Right-handed,Swiss German,Matur
+1238,M,Right-handed,Swiss German,Lic. rer. pol.
+1239,F,Right-handed,Polnish,Matur
+1240,M,Right-handed,Swiss German,Matur
+1241,F,Left-handed,Swiss German,Matur
+1242,F,Right-handed,Swiss German,Matur
+1243,F,Right-handed,Swiss German,Matur
+1244,F,Right-handed,Swiss German,Matur
+1245,F,Right-handed,Swiss German,Licentiate
+1246,F,Left-handed,Swiss German,Matur
+1247,F,Right-handed,French,Matur
+1248,F,Right-handed,Swiss German,Matur
+1249,F,Right-handed,Swiss German,Licentiate
+1250,M,Right-handed,Swiss German,Matur
+1251,F,Right-handed,German,Matur
+1252,M,Right-handed,French,Matur
+1253,M,Right-handed,Swiss German,Matur
+1254,M,Right-handed,Swiss German,Matur
+1255,M,Left-handed,Swiss German,Matur
+1256,F,Right-handed,Slovakian,
+1257,F,Right-handed,Swiss German,Matur
+1258,F,Right-handed,German,Matur
+1259,M,Right-handed,Swiss German,FH
+1260,F,Right-handed,German,Matur
+1261,M,Right-handed,Swiss German,Matur
+1262,M,Right-handed,French,Matur
+1263,M,Right-handed,Swiss German,Matur
+1264,F,Right-handed,French,Matur
+1265,M,Right-handed,Swiss German,Matur
+1266,M,Right-handed,Swiss German,Matur
+1267,M,Right-handed,Swiss German,Matur
+1268,M,Right-handed,Swiss German,MSc
+1269,M,Right-handed,French,Matur
+1270,M,Right-handed,Swiss German,Matur
+1272,M,Right-handed,Swiss German,Matur
+1273,M,Right-handed,Swiss German,Matur
+1274,F,Left-handed,Swiss German,Matur
+1275,M,Right-handed,French,Matur
+1276,M,Right-handed,Swiss German,Dr. Phil. nat.
+1277,M,Right-handed,Swiss German,Dipl. Phil. nat.
+1278,F,Right-handed,Swiss German,Matur
+1279,M,Left-handed,Swiss German,
+1280,M,Right-handed,Swiss German,Matur
+1281,M,Right-handed,Swiss German,FH
+1282,M,Right-handed,Swiss German,Matur
+1283,M,Right-handed,Swiss German,Matur
+1285,M,Right-handed,Swiss German,Matur
+1286,M,Right-handed,Swiss German,Matur
+1287,M,Right-handed,Swiss German,Abitur
+1288,M,Right-handed,Swiss German,Dr. Inf.
+1289,M,Right-handed,French,Matur
+1290,M,Right-handed,Swiss German,Matur
+1291,F,Right-handed,French,Matur
+1292,F,Right-handed,Swiss German,Dr. Phil. nat.
+1293,M,Left-handed,Finnish,Master of Science
+1294,F,Left-handed,Swiss German,Matur
+1295,M,Right-handed,German,Matur
+1296,F,Right-handed,Swiss German,Matur
+1297,M,Right-handed,Swiss German,FH
+1298,F,Right-handed,French,Matur
+1299,F,Left-handed,Swiss German,Lic. rer. pol.
+1300,M,Left-handed,Swiss German,Matur
+1301,F,Right-handed,Swiss German,Matur
+1302,M,Right-handed,Swiss German,Dipl. ing.
+1303,F,Right-handed,Swiss German,Matur
+1304,F,Right-handed,Swiss German,Matur
+1305,M,Right-handed,Swiss German,Matur
+1307,M,Left-handed,Swiss German,Matur
+1308,F,Right-handed,French,
+1309,M,Right-handed,Swiss German,Matur
+1310,F,Right-handed,Swiss German,Matur
+1312,M,Right-handed,German,Matur
+1313,M,Right-handed,Swiss German,Matur
+1314,M,Right-handed,Swiss German,
+1315,F,Right-handed,Swiss German,
+1316,M,Right-handed,Swiss German,Matur
+1317,M,Right-handed,Swiss German,Dipl. Phil. nat.
+1318,M,Right-handed,Finnish,Interational Baccaloreate
+1319,F,Right-handed,Swiss German,Dipl.
+1320,F,Right-handed,Hungarian,
+1321,F,Left-handed,Swiss German,MSc
+1322,F,Left-handed,Swiss German,Matur
+1323,F,Right-handed,Swiss German,Matur
+1324,F,Right-handed,Swiss German,Matur
+1325,M,Right-handed,Swiss German,Matur
+1326,M,Right-handed,Swiss German,
+1327,F,Right-handed,Swiss German,Matur
+1328,M,Right-handed,Swiss German,Matur
+1329,F,Right-handed,Swiss German,Bachelor
+1330,F,Right-handed,Swiss German,
+1331,M,Right-handed,Swiss German,Dipl.
+1332,F,Right-handed,French,Matur
+1333,M,Right-handed,Swiss German,Matur
+1334,M,Right-handed,Swiss German,Matur
+1335,F,Right-handed,Swiss German,Matur
+1336,F,Right-handed,Swiss German,Matur
+1337,M,Right-handed,Swiss German,Matur
+1338,M,Right-handed,Swiss German,
+1339,M,Right-handed,Swiss German,Dipl. ing.
+1340,F,Right-handed,French,Dipl.
+1341,M,Right-handed,Swiss German,Matur
+1342,F,Right-handed,Swiss German,Matur
+1343,M,Right-handed,Finnish,Matur
+1344,M,Left-handed,Swiss German,Matur
+1345,M,Right-handed,Swiss German,Matur
+1346,F,Right-handed,Swiss German,Matur
+1347,F,Left-handed,Swiss German,General Certificate of Education
+1348,F,Right-handed,German,Matur
+1349,M,Right-handed,Swiss German,Matur
+1350,F,Right-handed,Swiss German,Matur
+1351,M,Right-handed,Swiss German,Matur
+1352,M,Right-handed,Swiss German,Matur
+1353,F,Right-handed,Swiss German,
+1354,M,Right-handed,Swiss German,
+1355,M,Right-handed,Swiss German,Matur
+1356,F,Right-handed,Swiss German,MA Management
+1357,M,Right-handed,German,Matur
+1359,M,Right-handed,Swiss German,Matur
+1360,M,Left-handed,German,Matur
+1361,M,Right-handed,Swiss German,Matur
+1362,F,Right-handed,Swiss German,Matur
+1363,F,Right-handed,Swiss German,Matur
+1364,F,Right-handed,Slovak,Matur
+1365,F,Right-handed,Swiss German,Matur
+1366,F,Right-handed,German,Matur
+1367,F,Right-handed,Swiss German,
+1368,F,Right-handed,German,
+1369,F,Right-handed,Swiss German,Matur
+1370,F,Left-handed,Swiss German,Dr. Phil. nat.
+1371,M,Right-handed,French,Abitur
+1372,M,Right-handed,Swiss German,Dipl. Phil. nat.
+1373,F,Right-handed,German,Licence en traduction
+1375,M,Right-handed,Swiss German,Matur
+1376,M,Right-handed,German,Dipl. Phil. nat.
+1377,M,Right-handed,Swiss German,Matur
+1378,M,Right-handed,Swiss German,
+1379,F,Right-handed,Swiss German,Matur
+1380,F,Left-handed,Swiss German,Matur
+1382,F,Right-handed,Hungarian,Matur
+1383,F,Right-handed,French,Matur
+1384,M,Right-handed,Swiss German,Matur
+1385,M,Right-handed,Swiss German,
+1386,M,Right-handed,German,Matur
+1387,F,Right-handed,Swiss German,Matur
+1388,M,Right-handed,Swiss German,Matur
+1389,F,Right-handed,Serbian,PhD
+1390,M,Right-handed,Swiss German,Dipl.
+1391,M,Right-handed,Swiss German,Matur
+1392,M,Right-handed,Swiss German,Licentiate
+1393,F,Left-handed,Swiss German,Matur
+1394,F,Right-handed,Swiss German,Abitur
+1395,F,Right-handed,Swiss German,
+1396,F,Right-handed,Swiss German,PhD
+1397,F,Right-handed,Swiss German,Matur
+1398,F,Right-handed,French,Matur
+1399,F,Right-handed,Swiss German,Matur
+1400,F,Right-handed,Swiss German,Matur
+1401,M,Right-handed,Swiss German,Matur
+1402,F,Right-handed,Swiss German,Matur
+1403,M,Right-handed,Swiss German,
+1404,F,Right-handed,Swiss German,Dipl. ing.
+1405,M,Right-handed,Swiss German,
+1406,F,Right-handed,Swiss German,Matur
+1407,M,Right-handed,Slovakian,Dipl. Inform.
+1408,F,Right-handed,Finnish,Matur
+1409,M,Right-handed,Swiss German,Matur
+1410,M,Right-handed,Swiss German,Matur
+1411,M,Right-handed,Swiss German,Matur
+1412,F,Right-handed,Swiss German,Dipl. Inform.
+1413,F,Right-handed,Swiss German,Matur
+1414,F,Left-handed,Swiss German,FH
+1415,M,Left-handed,Swiss German,Matur
+1416,M,Right-handed,Swiss German,
+1417,M,Right-handed,Swiss German,
+1418,M,Right-handed,French,Dipl. Phil. nat.
+1419,F,Left-handed,German,Matur
+1420,F,Right-handed,French,Matur
+1421,F,Right-handed,German,Matur
+1422,F,Right-handed,Swiss German,
+1423,F,Right-handed,Swiss German,Master of Science
+1424,F,Right-handed,Swiss German,Matur
+1425,F,Right-handed,Swiss German,Dipl. Phil. nat.
+1426,M,Right-handed,French,Matur
+1427,M,Right-handed,Swiss German,Matur
+1428,F,Right-handed,Swiss German,Matur
+1429,M,Right-handed,Swiss German,Matur
+1430,F,Right-handed,Swiss German,Matur
+1431,M,Right-handed,Finnish,MSc
+1432,F,Right-handed,French,Matur
+1433,M,Right-handed,Swiss German,El.-Ing. FH
+1434,F,Right-handed,Swiss German,Matur
+1435,M,Right-handed,French,Matur
+1436,F,Right-handed,Swiss German,BS
+1439,M,Right-handed,Swiss German,Matur
+1440,M,Right-handed,Swiss German,Matur
+1441,F,Right-handed,Swiss German,
+1442,F,Right-handed,Swiss German,Matur
+1443,M,Right-handed,Swiss German,Matur
+1444,M,Right-handed,German,Matur
+1445,M,Right-handed,Swiss German,BS
+1446,M,Right-handed,Swiss German,
+1447,F,Right-handed,French,Matur
+1448,F,Right-handed,German,Matur
+1449,F,Right-handed,Swiss German,Matur
+1450,M,Right-handed,Swiss German,Matur
+1451,M,Right-handed,French,Matur
+1452,M,Right-handed,French,Matur
+1453,M,Right-handed,Swiss German,
+1454,F,Left-handed,Swiss German,Matur
+1455,F,Right-handed,Swiss German,Matur
+1456,M,Left-handed,Swiss German,Matur
+1457,M,Right-handed,Swiss German,Matur
+1458,F,Left-handed,Swiss German,
+1459,M,Right-handed,j,Matur
+1460,F,Right-handed,Swiss German,Dipl. Phil. nat.
+1461,F,Right-handed,Swiss German,Matur
+1462,F,Right-handed,English,Dipl.
+1463,M,Right-handed,Swiss German,Matur
+1464,F,Right-handed,Swiss German,Master of Science
+1465,F,Right-handed,Swiss German,General Certificate of Education
+1466,F,Right-handed,Swiss German,Matur
+1467,M,Right-handed,Swiss German,Matur
+1468,F,Right-handed,Swiss German,
+1469,M,Right-handed,Swiss German,
+1470,M,Right-handed,Swiss German,Matur
+1471,M,Right-handed,Chinese,Matur
+1472,F,Right-handed,Swiss German,Dipl. Phil. nat.
+1473,F,Right-handed,Swiss German,Matur
+1474,F,Right-handed,Swiss German,Matur
+1475,M,Left-handed,Polnish,Matur
+1476,F,Right-handed,English,Matur
+1477,M,Right-handed,Swiss German,Matur
+1478,M,Right-handed,French,Matur
+1479,M,Right-handed,Swiss German,Matur
+1480,F,Right-handed,Swiss German,
+1481,F,Right-handed,Swiss German,Matur
+1482,F,Right-handed,Swiss German,Dipl.
+1483,F,Right-handed,Swiss German,Dr. Inf.
+1484,M,Right-handed,Swiss German,Matur
+1485,F,Right-handed,Ukrainian,Matur
+1486,F,Right-handed,Portuguese,Abitur
+1487,F,Right-handed,Swiss German,Matur
+1488,F,Right-handed,Swiss German,
+1489,F,Right-handed,Swiss German,Matur
+1490,M,Right-handed,German,BS
+1491,F,Right-handed,German,
+1492,M,Right-handed,Swiss German,Matur
+1493,F,Right-handed,Swiss German,Matur
+1494,F,Right-handed,Swiss German,Matur
+1495,M,Right-handed,Swiss German,
+1496,F,Right-handed,Swiss German,Matur
+1497,F,Right-handed,Swiss German,Master of Science
+1498,F,Right-handed,Swiss German,MSc
+1499,M,Right-handed,Swiss German,
+1500,M,Right-handed,French,Matur
+1501,F,Right-handed,Swiss German,Matur
+1502,F,Right-handed,German,
+1503,M,Right-handed,French,Matur
+1504,F,Right-handed,Hungarian,Matur
+1505,F,Right-handed,Swiss German,Matur
+1506,M,Right-handed,Swiss German,Matur
+1508,M,Right-handed,Swiss German,Matur
+1509,M,Right-handed,Swiss German,Dipl. Math.
+1510,M,Right-handed,Swiss German,Dipl.
+1511,M,Right-handed,German,Business School
+1512,F,Right-handed,Swiss German,Licence en traduction
+1513,F,Right-handed,Swiss German,Matur
+1514,M,Right-handed,Swiss German,Matur
+1515,M,Left-handed,Swiss German,Matur
+1516,F,Right-handed,Ukrainian,Matur
+1517,M,Right-handed,Swiss German,Matur
+1518,M,Right-handed,Swiss German,Master of Science
+1519,M,Right-handed,Swiss German,Matur
+1520,F,Right-handed,Swiss German,FH
+1521,M,Right-handed,Finnish,Dr. Phil. nat.
+1522,M,Right-handed,Swiss German,
+1523,M,Right-handed,Swiss German,Matur
+1524,F,Right-handed,Swiss German,
+1525,M,Right-handed,French,Matur
+1526,M,Right-handed,Swiss German,Matur
+1527,F,Right-handed,Swiss German,Matur
+1528,F,Right-handed,Swiss German,Abitur
+1529,M,Left-handed,Swiss German,Matur
+1530,F,Right-handed,French,Matur
+1531,M,Left-handed,Swiss German,Matur
+1532,M,Right-handed,Swiss German,Matur
+1533,F,Right-handed,German,General Certificate of Education
+1534,F,Right-handed,Swiss German,Matur
+1535,F,Right-handed,Swiss German,Matur
+1536,M,Right-handed,French,
+1537,M,Right-handed,Persian,Matur
+1538,M,Right-handed,Swiss German,Matur
+1539,F,Left-handed,j,
+1540,M,Right-handed,Swiss German,Matur
+1541,M,Right-handed,Swiss German,Matur
+1542,F,Right-handed,Swiss German,Matur
+1543,F,Left-handed,Swiss German,Matur
+1544,M,Right-handed,Swiss German,Matur
+1545,F,Right-handed,Swiss German,Matur
+1546,M,Right-handed,German,Matur
+1547,F,Right-handed,Turkish,
+1548,M,Right-handed,j,Dipl. Phil. nat.
+1549,F,Right-handed,Swiss German,Matur
+1550,M,Right-handed,Spanish,Matur
+1551,F,Right-handed,Swiss German,Dipl. ing.
+1552,F,Right-handed,Finnish,Matur
+1553,F,Right-handed,Swiss German,Master of Science
+1554,F,Right-handed,Swiss German,
+1555,F,Right-handed,German,Matur
+1556,M,Right-handed,Swiss German,Dipl. Phil. nat.
+1557,M,Right-handed,Swiss German,Matur
+1558,M,Right-handed,Swiss German,Matur
+1559,F,Right-handed,Swiss German,
+1560,F,Right-handed,Russian,Licentiate
+1561,M,Left-handed,French,Matur
+1562,F,Right-handed,Swiss German,Matur
+1563,F,Right-handed,German,Matur
+1564,F,Right-handed,Swiss German,Matur
+1565,F,Right-handed,Swiss German,Abitur
+1566,F,Right-handed,Swiss German,Matur
+1567,M,Right-handed,Swiss German,Abitur
+1568,M,Right-handed,Swiss German,Matur
+1569,F,Right-handed,Polnish,Matur
+1570,F,Right-handed,Swiss German,Matur
+1571,M,Right-handed,Swiss German,Matur
+1572,F,Right-handed,Russian,
+1573,M,Right-handed,Swiss German,Matur
+1574,M,Right-handed,Swiss German,MSc
+1575,M,Right-handed,Swiss German,Matur
+1576,F,Right-handed,Swiss German,
+1577,M,Right-handed,Swiss German,Matur
+1578,M,Right-handed,Swiss German,Matur
+1579,M,Right-handed,Swiss German,Interational Baccaloreate
+1580,M,Right-handed,Swiss German,Matur
+1581,M,Right-handed,French,
+1582,F,Right-handed,German,Matur
+1583,F,Right-handed,Swiss German,Matur
+1584,F,Left-handed,English,Matur
+1585,M,Right-handed,Swiss German,n
+1586,M,Right-handed,Swiss German,Matur
+1587,F,Right-handed,Swiss German,Matur
+1588,M,Right-handed,Swiss German,Dipl.
+1589,F,Right-handed,Swiss German,Matur
+1590,F,Right-handed,Swiss German,Matur
+1591,M,Right-handed,Swiss German,Matur
+1592,M,Right-handed,French,Matur
+1593,F,Right-handed,Swiss German,Matur
+1594,F,Right-handed,German,Matur
+1595,M,Right-handed,Swiss German,Matur
+1596,F,Right-handed,j,Matur
+1597,M,Right-handed,Swiss German,Matur
+1598,M,Left-handed,Swiss German,Dipl. Phil. nat.
+1599,M,Right-handed,Swiss German,Matur
+1600,F,Left-handed,Swiss German,Matur
+1601,F,Right-handed,Swiss German,Matur
+1602,M,Right-handed,Swiss German,Bachelor
+1603,F,Right-handed,Swiss German,
+1604,F,Right-handed,Swiss German,Matur
+1605,F,Right-handed,Swiss German,Matur
+1606,F,Right-handed,German,Master of Science
+1607,F,Right-handed,Swiss German,Matur
+1608,M,Right-handed,French,Dr. phil. nat.
+1609,F,Right-handed,Swiss German,Matur
+1610,M,Right-handed,Swiss German,Matur
+1611,M,Left-handed,French,Matur
+1612,M,Right-handed,Swiss German,Licentiate
+1613,M,Left-handed,Swiss German,BS
+1614,M,Left-handed,French,Matur
+1615,F,Right-handed,Swiss German,
+1616,F,Right-handed,Swiss German,Matur
+1617,F,Right-handed,Swiss German,
+1618,M,Left-handed,Swiss German,Matur
+1619,M,Left-handed,Swiss German,Matur
+1620,M,Right-handed,Swiss German,Matur
+1621,F,Right-handed,Swiss German,Matur
+1622,F,Right-handed,German,Matur
+1623,M,Right-handed,Swiss German,Matur
+1624,F,Left-handed,Swiss German,
+1625,F,Right-handed,Spanish,Dipl. Math.
+1626,F,Right-handed,German,PhD
+1627,M,Right-handed,Swiss German,Matur
+1628,F,Right-handed,Swiss German,Matur
+1629,M,Right-handed,Swiss German,
+1630,M,Right-handed,French,Matur
+1631,M,Left-handed,Swiss German,
+1632,F,Right-handed,Swiss German,Matur
+1633,F,Right-handed,French,MSc
+1634,M,Right-handed,Swiss German,Matur
+1635,M,Right-handed,Russian,Matur
+1636,F,Left-handed,Swiss German,Matur
+1637,F,Right-handed,Swiss German,Matur
+1638,M,Right-handed,Swiss German,Matur
+1639,F,Right-handed,Swiss German,Matur
+1640,F,Right-handed,Swiss German,
+1641,F,Right-handed,German,Matur
+1642,F,Right-handed,Swiss German,Matur
+1643,M,Left-handed,Swiss German,Matur
+1644,M,Left-handed,Swiss German,
+1645,M,Right-handed,Swiss German,Matur
+1647,F,Right-handed,Swiss German,Matur
+1648,F,Right-handed,Swiss German,Abitur
+1649,M,Right-handed,French,s
+1650,M,Right-handed,French,BS
+1651,M,Right-handed,Swiss German,Interational Baccaloreate
+1652,F,Right-handed,Swiss German,Matur
+1653,M,Right-handed,French,n
+1654,M,Right-handed,Swiss German,Matur
+1655,M,Right-handed,German,Matur
+1658,M,Right-handed,Swiss German,Matur
+1659,F,Left-handed,Swiss German,Matur
+1660,M,Right-handed,Swiss German,MA Management
+1661,F,Right-handed,Swiss German,MSc
+1662,F,Right-handed,French,Matur
+1663,F,Right-handed,Swiss German,Matur
+1664,F,Right-handed,Swiss German,Matur
+1665,F,Right-handed,Swiss German,Matur
+1666,F,Right-handed,Swiss German,
+1667,F,Right-handed,Swiss German,Matur
+1668,F,Right-handed,Swiss German,
+1669,F,Right-handed,German,Licentiate
+1670,F,Right-handed,Swiss German,Matur
+1671,M,Right-handed,Finnish,Licence en traduction
